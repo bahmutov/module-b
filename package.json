@@ -1,6 +1,6 @@
 {
   "name": "module-b",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Demo module for showing npm version resolution",
   "main": "index.js",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
